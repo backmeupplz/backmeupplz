@@ -40,15 +40,9 @@ Upload any MIDI file, listen, practice with real-time feedback, and master drums
 - **[IsBotDownBot](https://github.com/backmeupplz/IsBotDownBot)** — @IsBotDownBot Telegram bot code
 - **[banofbot](https://github.com/backmeupplz/banofbot)** — @banofbot and @silent_banofbot for voting on banning users
 - **[archivelinksbot](https://github.com/backmeupplz/archivelinksbot)** — Saves links to web archive
-- **[b_banner_bot](https://github.com/backmeupplz/b_banner_bot)** — Telegram banner bot
 - **[check_my_text_bot](https://github.com/backmeupplz/check_my_text_bot)** — Spellchecker bot for Telegram
-- **[coolnetbot](https://github.com/backmeupplz/coolnetbot)** — Community network bot for coffee/tea/water meetups
-- **[deletr](https://github.com/backmeupplz/deletr)** — @deletr_bot — message deletion bot
-- **[bezos](https://github.com/backmeupplz/bezos)** — Bot for the "Bezos Giveaway" Telegram group
-- **[cas_ban_bot](https://github.com/backmeupplz/cas_ban_bot)** — CAS ban checker Telegram bot
 - **[bots-localizer](https://github.com/backmeupplz/bots-localizer)** — Localizer frontend for bots
-- **[BTCEBot](https://github.com/backmeupplz/BTCEBot)** — Bot for BTC-e.com
-- **[IsBotDown](https://github.com/backmeupplz/IsBotDown)** — Is Bot Down website
+- **[randymbot](https://github.com/backmeupplz/randymbot)** — @randymbot — random selection bot for Telegram
 
 ### Developer Tools & Starters
 - **[backend-starter](https://github.com/backmeupplz/backend-starter)** — Backend starter template
