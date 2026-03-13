@@ -62,4 +62,11 @@ Upload any MIDI file, listen, practice with real-time feedback, and master drums
 
 ---
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=backmeupplz&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=backmeupplz&layout=compact&theme=dark&hide_border=true)
+
+---
+
 *Making the world better one codeline at a time* 🚀
