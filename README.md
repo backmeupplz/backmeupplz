@@ -24,6 +24,11 @@ Orchestrates multiple AI coding agents to work together autonomously using tmux 
 
 Terminal-based MIDI drum sampler with minimal latency, perfect for electronic drum kits. Features sample drum kits available at [drumkit-kits](https://github.com/backmeupplz/drumkit-kits).
 
+### 📖 [Daily Dad](https://github.com/backmeupplz/daily-dad)
+**Terminal greeter with daily entries from The Daily Dad**
+
+A bash script that displays today's entry from *The Daily Dad* by Ryan Holiday in your terminal, beautifully formatted.
+
 ### 🎵 [DrumTutor](https://github.com/backmeupplz/drumtutor)
 **Interactive web-based drum tutor**
 
