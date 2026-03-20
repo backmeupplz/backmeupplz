@@ -9,6 +9,11 @@
 
 ## Featured Projects
 
+### ⌨️ [borodutch-ferris-sweep](https://github.com/backmeupplz/borodutch-ferris-sweep)
+**Custom firmware for Ferris Sweep keyboard with 6-layer Colemak layout**
+
+QMK firmware for HolyKeebs Sweeq (Ferris Sweep with trackpoint) featuring a 6-layer Miryoku-inspired Colemak layout, VIA runtime configuration, and AI-friendly architecture. **Give this repo to Claude/Cursor as a starting point for your own keyboard customization.**
+
 ### 🏠 [MyGround](https://github.com/backmeupplz/myground)
 **Self-hosting platform — hold your ground**
 
