@@ -39,6 +39,11 @@ A bash script that displays today's entry from *The Daily Dad* by Ryan Holiday i
 
 Upload any MIDI file, listen, practice with real-time feedback, and master drums at your own pace. A browser-based drum learning platform.
 
+### 📊 [claude-limits-waybar](https://github.com/backmeupplz/claude-limits-waybar)
+**Show Claude Code rate limits in waybar**
+
+Displays your Claude Code 5-hour utilization % and hours until reset right in the waybar status bar. Uses the Anthropic OAuth usage API.
+
 ---
 
 ## Popular Open Source Projects
