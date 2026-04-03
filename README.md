@@ -7,6 +7,7 @@
 
 ## Current Projects
 
+- 🔮 **[Omens](https://github.com/backmeupplz/omens)** — AI-filtered X feed that scores posts for relevance — signal from noise
 - ⌨️ **[borodutch-ferris-sweep](https://github.com/backmeupplz/borodutch-ferris-sweep)** — QMK firmware for Ferris Sweep with 6-layer Colemak
 - 🏠 **[MyGround](https://github.com/backmeupplz/myground)** — Self-hosting platform for deploying your own services
 - 🤖 **[SuperHarness](https://github.com/backmeupplz/superharness)** — Multi-agent orchestrator for AI coding agents via tmux
