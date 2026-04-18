@@ -14,7 +14,7 @@
 - 🥁 **[Drumkit](https://github.com/backmeupplz/drumkit)** — Low-latency TUI MIDI drum sampler
 - 📖 **[Daily Dad](https://github.com/backmeupplz/daily-dad)** — Terminal greeter with entries from The Daily Dad
 - 🎵 **[DrumTutor](https://github.com/backmeupplz/drumtutor)** — Web-based drum learning platform with MIDI support
-- 📊 **[claude-limits-waybar](https://github.com/backmeupplz/claude-limits-waybar)** — Claude Code rate limits in your waybar
+- 📊 **[limits-waybar](https://github.com/backmeupplz/limits-waybar)** — Claude Code and Codex rate limits in your waybar
 - 🤖 **[AI — Better or Worse?](https://ai.borodutch.com)** — Single-page opinion site weighing arguments for and against AI ([repo](https://github.com/backmeupplz/ai))
 
 ## Popular Projects
