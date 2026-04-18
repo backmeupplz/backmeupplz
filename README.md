@@ -7,6 +7,7 @@
 
 ## Current Projects
 
+- 🔎 **[telegram-ai-searcher](https://github.com/backmeupplz/telegram-ai-searcher)** — Telegram bot that answers questions via Fireworks AI + self-hosted SearXNG, streaming replies live
 - 🔮 **[Omens](https://github.com/backmeupplz/omens)** — AI-filtered X feed that scores posts for relevance — signal from noise
 - ⌨️ **[borodutch-ferris-sweep](https://github.com/backmeupplz/borodutch-ferris-sweep)** — QMK firmware for Ferris Sweep with 6-layer Colemak
 - 🏠 **[MyGround](https://github.com/backmeupplz/myground)** — Self-hosting platform for deploying your own services
