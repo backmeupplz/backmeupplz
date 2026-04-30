@@ -12,6 +12,7 @@
 - ⌨️ **[borodutch-ferris-sweep](https://github.com/backmeupplz/borodutch-ferris-sweep)** — QMK firmware for Ferris Sweep with 6-layer Colemak
 - 🏠 **[MyGround](https://github.com/backmeupplz/myground)** — Self-hosting platform for deploying your own services
 - 🤖 **[SuperHarness](https://github.com/backmeupplz/superharness)** — Multi-agent orchestrator for AI coding agents via tmux
+- 🎼 **[Symphony](https://github.com/backmeupplz/symphony)** — Fork of OpenAI's project-work orchestrator for autonomous coding agent runs
 - 🥁 **[Drumkit](https://github.com/backmeupplz/drumkit)** — Low-latency TUI MIDI drum sampler
 - 📖 **[Daily Dad](https://github.com/backmeupplz/daily-dad)** — Terminal greeter with entries from The Daily Dad
 - 🎵 **[DrumTutor](https://github.com/backmeupplz/drumtutor)** — Web-based drum learning platform with MIDI support
