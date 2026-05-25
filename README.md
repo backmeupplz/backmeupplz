@@ -7,6 +7,7 @@
 
 ## Current Projects
 
+- ⬇️ **[chrome-x-video-downloader](https://github.com/backmeupplz/chrome-x-video-downloader)** — Chromium extension that adds a download button to every video on x.com
 - 🔎 **[telegram-ai-searcher](https://github.com/backmeupplz/telegram-ai-searcher)** — Telegram bot that answers questions via Fireworks AI + self-hosted SearXNG, streaming replies live
 - 🧙 **[Infinite DND](https://github.com/backmeupplz/infinite-dnd)** — Telegram DND bot with persistent campaigns and Kimi K2.6 Turbo as dungeon master
 - 🪐 **[Veydrift](https://github.com/Borodutch/veydrift)** — Onchain space strategy game on Base
