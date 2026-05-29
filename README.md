@@ -10,6 +10,7 @@
 - ⬇️ **[chrome-x-video-downloader](https://github.com/backmeupplz/chrome-x-video-downloader)** — Chromium extension that adds a download button to every video on x.com
 - 🔎 **[telegram-ai-searcher](https://github.com/backmeupplz/telegram-ai-searcher)** — Telegram bot that answers questions via Fireworks AI + self-hosted SearXNG, streaming replies live
 - 🏷️ **[Tag Smart Bot](https://github.com/backmeupplz/telegram-member-tags)** — Telegram bot that uses Kimi K2.6 Turbo to assign funny context-aware group member tags
+- 🧠 **[Chad Summary Bot](https://github.com/backmeupplz/telegram-chat-summarizer)** — Telegram group bot that stores chat context and summarizes recent topics with Kimi K2.6 Turbo
 - 🧙 **[Infinite DND](https://github.com/backmeupplz/infinite-dnd)** — Telegram DND bot with persistent campaigns and Kimi K2.6 Turbo as dungeon master
 - 🪐 **[Veydrift](https://github.com/Borodutch/veydrift)** — Onchain space strategy game on Base
 - 🔮 **[Omens](https://github.com/backmeupplz/omens)** — AI-filtered X feed that scores posts for relevance — signal from noise
