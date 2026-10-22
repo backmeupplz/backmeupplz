@@ -19,7 +19,6 @@ Live stats for everything below are on [borodutch.com](https://borodutch.com).
 - 🏠 **[MyGround](https://myground.online)**: self-hosting platform that replaces the big-tech stack with one Rust binary ([repo](https://github.com/backmeupplz/myground))
 - ⌚ **[Project Horae](https://projecthorae.com)**: thinner, band-shaped, open-source e-paper watch ([repo](https://github.com/backmeupplz/project-horae))
 - 🤖 **[SuperHarness](https://superharness.dev)**: autonomous multi-agent orchestrator for AI coding agents via tmux ([repo](https://github.com/backmeupplz/superharness))
-- 🔮 **[Omens](https://omens.online)**: AI-filtered X feed that scores posts for relevance ([repo](https://github.com/backmeupplz/omens))
 
 ## Telegram bots with millions of users
 
