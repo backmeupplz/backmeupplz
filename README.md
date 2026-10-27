@@ -11,6 +11,7 @@ Live stats for everything below are on [borodutch.com](https://borodutch.com).
 ## Building now
 
 - 🪐 **[Veydrift](https://veydrift.com)**: onchain multiplayer space strategy game on Base, with 360K+ onchain transactions so far ([repo](https://github.com/Borodutch/veydrift), [stats](https://stats.veydrift.com))
+- 🚢 **[Tugport](https://tugport.com)**: self-hosted alternative to Heroku and Vercel in one Rust binary that deploys every git push without downtime and moves an Easypanel or Coolify server over in one command ([repo](https://github.com/backmeupplz/tugport))
 - 👛 **[Plain Wallet](https://plainwallet.app)**: very minimal EVM wallet for Chrome, Firefox, Safari, Android, iPhone and Mac that you can read in an evening ([repo](https://github.com/backmeupplz/plainwallet))
 - 🧰 **[plain](https://getplain.org)**: one small binary that compiles, tests, deploys, verifies and upgrades Solidity contracts, and runs Foundry projects as they are ([repo](https://github.com/backmeupplz/plain))
 - 🟣 **[Quilcast](https://quilcast.com)**: small Farcaster web client that talks straight to Quilibrium's Hypersnap network from your browser ([repo](https://github.com/backmeupplz/quilcast))
